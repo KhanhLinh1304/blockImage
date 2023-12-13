@@ -1,0 +1,21 @@
+{
+  "name": "nft-marketplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "chai": "^4.3.10",
+    "chai-as-promised": "^7.1.1"
+  }
+}
